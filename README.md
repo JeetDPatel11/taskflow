@@ -9,12 +9,12 @@ A full stack task management application where users create projects, assign tas
 - **Authentication:** JWT (JSON Web Tokens), role-based access (Admin / Member)
 
 ## Features (Roadmap)
-- [ ] User registration and login with JWT authentication
-- [ ] Role-based access control (Admin / Member)
-- [ ] Create and manage projects
-- [ ] Create, assign and update tasks (To-Do, In-Progress, Done)
-- [ ] Dashboard showing task counts by status
-- [ ] Search and filter tasks
+-  User registration and login with JWT authentication
+-  Role-based access control (Admin / Member)
+-  Create and manage projects
+-  Create, assign and update tasks (To-Do, In-Progress, Done)
+-  Dashboard showing task counts by status
+-  Search and filter tasks
 
 ## Database Design
 The app uses a normalized MySQL schema with three main tables:
